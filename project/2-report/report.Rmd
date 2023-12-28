@@ -14,7 +14,7 @@ library(scales)
 ```
 
 ```{r message=FALSE, warning=FALSE, cache=TRUE, echo=FALSE}
-df <- read_csv("C:/Users/Matas/Downloads/1-sample_data.csv")
+df <- read_csv(".././1-data/1-sample_data.csv")
 ```
 
 ```{r echo=FALSE}
